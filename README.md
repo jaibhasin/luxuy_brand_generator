@@ -1,5 +1,7 @@
 # Luxury Brand Name Generator
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/jaibhasin/luxuy_brand_generator)
+
 A machine learning model that generates unique and creative luxury brand names using character-level language modeling.
 
 ## Overview
@@ -31,8 +33,8 @@ This project uses a neural network to learn patterns from existing luxury brand 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd luxury_brand_name_gen
+git clone https://github.com/jaibhasin/luxuy_brand_generator.git
+cd luxuy_brand_generator
 ```
 
 2. Install the required packages:
